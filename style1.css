@@ -36,3 +36,8 @@ div{
 	padding:10px;
 	background-color:#00CED1
 }	
+div {
+    -webkit-columns: 100px 3; 
+    -moz-columns: 100px 3; 
+    columns: 100px 3;
+}
