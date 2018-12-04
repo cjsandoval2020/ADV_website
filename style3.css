@@ -1,4 +1,4 @@
-body{
+body{ /*coding for border*/
 	border:5px solid black;
 	float: center;
 	background-color:#00CED1;
@@ -10,7 +10,7 @@ div{
 	margin-right:20px ;
 	margin-left:20px:
 	}
-	.header{
+	.header{/*coding for navigation bar*/
 		text-align: center;
 		padding:20px;
 		background-color;#00CED1;
@@ -19,7 +19,7 @@ div{
 	overflow:hidden;
 	background-color: #3CB371
 }
-	.topnav a{
+	.topnav a{/*puts text for nav bar on left side*/
 	float:left;
 	display:block;
 	text-align:center;
@@ -31,13 +31,9 @@ div{
 	background-color:#000000;
 	color:white;
 	}
-	.footer{
+	.footer{/*aligns text to be in center*/
 	text-align: center;
 	padding:10px;
 	background-color:#00CED1
-		div {
-    -webkit-columns: 100px 3; /* Chrome, Safari, Opera */
-    -moz-columns: 100px 3; /* Firefox */
-    columns: 100px 3;
-}
+
 }	
